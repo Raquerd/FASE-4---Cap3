@@ -97,3 +97,9 @@ Python 3.10+
 - numpy
 
 - Jupyter Notebook
+
+## 💡 Insights Relevantes
+
+**Importância de atributos físicos bem definidos:** A análise exploratória inicial mostrou que características como comprimento do sulco do núcleo e compacidade foram fundamentais para separar bem as variedades — especialmente visíveis nos gráficos de dispersão.
+
+**Aplicabilidade real:** Com base nesses resultados, é possível implementar um modelo automatizado para cooperativas agrícolas que realize a classificação dos grãos com alta precisão, reduzindo erros humanos e tempo de análise.
