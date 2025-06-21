@@ -1,6 +1,21 @@
 # 🌾 Projeto de Classificação de Grãos de Trigo com Machine Learning
 Este projeto tem como objetivo automatizar o processo de classificação de três variedades de grãos de trigo: Kama, Rosa e Canadian, utilizando técnicas de Machine Learning aplicadas ao Seeds Dataset do UCI Machine Learning Repository.
 
+### 👨‍🎓 Integrantes:
+
+Lais Kurahashi
+
+Davi Ferreira
+
+Lucas Martinelli
+
+### 👩‍🏫 Professores:
+**Tutor(a)**
+Lucas Gomes Moreira
+
+**Coordenador(a)**
+André Godoi Chiovato
+
 ## 📌 Objetivos
 - Aplicar a metodologia CRISP-DM para desenvolver um modelo preditivo.
 
